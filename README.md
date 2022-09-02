@@ -3,7 +3,7 @@
 Recitation-015-10
 
 Team Members:
-Aneesh Kaushik
-Justin Jamrowski
-Manas Gupta
+Aneesh Kaushik,
+Justin Jamrowski.
+Manas Gupta, and
 Sriyans Pattanaik
