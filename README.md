@@ -2,7 +2,7 @@
 
 Recitation-015-10
 
-Team Members:
+Project Team Members:
 Aneesh Kaushik,
 Justin Jamrowski.
 Manas Gupta, and
